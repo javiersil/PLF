@@ -39,7 +39,7 @@
                             )
                             
                           )]
-                   ;;    vac funciona como  funciona como  
+                   ;;    vac funciona como   
                    ;;    "acumulador inicial"
                   (g [] xs f  vac )
                   )                                   
